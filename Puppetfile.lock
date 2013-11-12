@@ -1,12 +1,67 @@
+PATH
+  remote: /Users/rickard/src/boxen/puppet-kaleidoscope
+  specs:
+    kaleidoscope (0.0.1)
+
+PATH
+  remote: /Users/rickard/src/boxen/puppet-maximum_awesome
+  specs:
+    maximum_awesome (0.0.1)
+
+PATH
+  remote: /Users/rickard/src/boxen/puppet-parallels
+  specs:
+    parallels (0.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-alfred
+  specs:
+    alfred (1.1.6)
+
 GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (3.3.4)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.1.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.1.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-eclipse
+  specs:
+    eclipse (2.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-emacs
+  specs:
+    emacs (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-evernote
+  specs:
+    evernote (2.0.4)
+
+GITHUBTARBALL
+  remote: boxen/puppet-firefox
+  specs:
+    firefox (1.1.4)
+
+GITHUBTARBALL
+  remote: boxen/puppet-fish
+  specs:
+    fish (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-foreman
@@ -24,9 +79,19 @@ GITHUBTARBALL
     git (1.2.5)
 
 GITHUBTARBALL
+  remote: boxen/puppet-gitx
+  specs:
+    gitx (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-go
   specs:
     go (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-graphviz
+  specs:
+    graphviz (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-homebrew
@@ -39,6 +104,36 @@ GITHUBTARBALL
     hub (1.0.3)
 
 GITHUBTARBALL
+  remote: boxen/puppet-intellij
+  specs:
+    intellij (1.4.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.3)
+
+GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-keyremap4macbook
+  specs:
+    keyremap4macbook (1.0.8)
+
+GITHUBTARBALL
+  remote: boxen/puppet-macvim
+  specs:
+    macvim (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-mou
+  specs:
+    mou (1.1.3)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.2)
@@ -46,12 +141,27 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
-    nodejs (3.3.0)
+    nodejs (3.4.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-omnigraffle
+  specs:
+    omnigraffle (1.3.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-openssl
   specs:
     openssl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (2.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pcre
+  specs:
+    pcre (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-phantomjs
@@ -64,6 +174,11 @@ GITHUBTARBALL
     pkgconfig (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-python
+  specs:
+    python (1.3.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-repository
   specs:
     repository (2.2.0)
@@ -74,14 +189,84 @@ GITHUBTARBALL
     ruby (6.7.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-skype
+  specs:
+    skype (1.0.6)
+
+GITHUBTARBALL
+  remote: boxen/puppet-spotify
+  specs:
+    spotify (1.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-swig
+  specs:
+    swig (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-tower
+  specs:
+    tower (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-tunnelblick
+  specs:
+    tunnelblick (1.0.4)
+
+GITHUBTARBALL
+  remote: boxen/puppet-utorrent
+  specs:
+    utorrent (1.1.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (3.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vim
+  specs:
+    vim (1.0.5)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.9)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wget
+  specs:
+    wget (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wunderlist
+  specs:
+    wunderlist (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.0)
+
+GITHUBTARBALL
+  remote: carwin/puppet-wireshark
+  specs:
+    wireshark (1.1.0)
+
+GITHUBTARBALL
+  remote: fschwiet/puppet-gimp
+  specs:
+    gimp (1.0.0)
+
+GITHUBTARBALL
+  remote: lglenn/puppet-inkscape
+  specs:
+    inkscape (1.0.3)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
@@ -94,23 +279,62 @@ GITHUBTARBALL
     stdlib (4.1.0)
 
 DEPENDENCIES
+  alfred (= 1.1.6)
   boxen (= 3.3.4)
+  chrome (= 1.1.2)
   dnsmasq (= 1.0.0)
+  dropbox (= 1.1.2)
+  eclipse (= 2.2.0)
+  emacs (= 1.1.0)
+  evernote (= 2.0.4)
+  firefox (= 1.1.4)
+  fish (= 1.0.0)
   foreman (= 1.0.0)
   gcc (= 2.0.1)
+  gimp (= 1.0.0)
   git (= 1.2.5)
+  gitx (= 1.2.0)
   go (= 1.0.0)
+  graphviz (= 1.0.0)
   homebrew (= 1.5.1)
   hub (= 1.0.3)
   inifile (= 1.0.0)
+  inkscape (= 1.0.3)
+  intellij (= 1.4.0)
+  iterm2 (= 1.0.3)
+  java (= 1.1.0)
+  kaleidoscope (>= 0)
+  keyremap4macbook (= 1.0.8)
+  macvim (= 1.0.0)
+  maximum_awesome (>= 0)
+  mou (= 1.1.3)
   nginx (= 1.4.2)
-  nodejs (= 3.3.0)
+  nodejs (= 3.4.1)
+  omnigraffle (= 1.3.0)
   openssl (= 1.0.0)
+  openssl (= 1.0.0)
+  osx (= 2.0.0)
+  parallels (>= 0)
+  pcre (= 1.0.0)
   phantomjs (= 2.0.2)
   pkgconfig (= 1.0.0)
+  python (= 1.3.0)
   repository (= 2.2.0)
   ruby (= 6.7.2)
+  skype (= 1.0.6)
+  spotify (= 1.0.1)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
+  swig (= 1.0.0)
+  tower (= 1.0.0)
+  tunnelblick (= 1.0.4)
+  utorrent (= 1.1.1)
+  vagrant (= 3.0.0)
+  vim (= 1.0.5)
+  virtualbox (= 1.0.9)
+  wget (= 1.0.0)
+  wireshark (= 1.1.0)
+  wunderlist (= 1.0.0)
+  xquartz (= 1.1.0)
   xquartz (= 1.1.0)
 
